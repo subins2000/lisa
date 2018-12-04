@@ -43,3 +43,13 @@ paginate        = 6
   name = "Home"
   url = "/"
   weight = 200
+
+[[menu.main]]
+  name = "APT"
+  url = "http://localhost:1313/tags/apt/"
+  weight = 95
+
+[[menu.main]]
+  name = "Ubuntu"
+  url = "http://localhost:1313/tags/ubuntu/"
+  weight = 95
