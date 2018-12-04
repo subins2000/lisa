@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boss Linux</title>
+      <link>/bosslinux/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/bosslinux/</guid>
+      <description>BOSS LINUX The BOSS GNU/Linux Version 6 is coupled with GNOME Desktop Environment 3.14 with wide Indian language support &amp;amp; packages, relevant for use in the Government domain. This aims more at enhancing the user interface with more glossy themes and Tab like look and feel on the desktop by coupling latest applications.
+BOSS (Bharat Operating System Solutions) is a GNU/Linux distribution developed by C-DAC, Chennai in order to benefit the usage of Free/Open Source Software in India.</description>
+    </item>
+    
+    <item>
+      <title>Deepin OS</title>
+      <link>/deepinos/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/deepinos/</guid>
+      <description>DEEPIN OS Deepin, stylized as deepin was formerly known as Linux Deepin and Hiweed Linux. What sets Deepin apart from other Linux Distributions is the is the strategic partner of CodeWeavers who packaged a TidBit into Deepin named &amp;ldquo;CrossOver&amp;rdquo;.
+CrossOver is a Microsoft Windows compatibility layer for Linux. This layer enables Windows-based applications to run on Linux OSs.
+Deepin features its own desktop environment called Deepin Desktop Environment (DDE), which is written in Qt.</description>
+    </item>
+    
+    <item>
+      <title>Elementary Os</title>
+      <link>/elementaryos/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/elementaryos/</guid>
+      <description>Elementary OS Elementary OS Is a fast, open, and privacy-respecting replacement for Windows and macOS. They focus primarily on non-technical users, and has pay-what-you-want model. The OS is developed by elementary LLC.
+Basic Info  Based on : ubuntu Package Manager : dpkg Founded : 2009 Website : https://elementary.io/  Download Elementary OS does not have a strict release cadence, instead following a &amp;ldquo;release when ready&amp;rdquo; model. However, releases generally occur about a year after the release of the Ubuntu LTS release.</description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>/fedora/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/fedora/</guid>
+      <description>Fedora Fedora is a Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under various free and open-source licenses and aims to be on the leading edge of such technologies. Fedora is the upstream source of the commercial Red Hat Enterprise Linux distribution.
+Since the release of Fedora 21, three different editions are currently available: Workstation, focused on the personal computer, Server for servers, and Atomic focused on cloud computing.</description>
+    </item>
+    
+    <item>
+      <title>KDE Neon</title>
+      <link>/kdeneon/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/kdeneon/</guid>
+      <description>KDE Neon KDE neon is a set of software repositories for Ubuntu long-term support (LTS) releases with latest 64-bit version of KDE desktop and applications.It is also the name given to a Ubuntu LTS-based Linux distribution that utilizes said repositories.It aims to provide the users with rapidly updated Qt and KDE software, while updating the rest of the OS components from the Ubuntu repositories at the normal pace. It comes in user and developer editions.</description>
+    </item>
+    
+    <item>
+      <title>Kali Linux</title>
+      <link>/kalilinux/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/kalilinux/</guid>
+      <description>Kali Linux Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security Ltd. It was developed by Mati Aharoni and Devon Kearns of Offensive Security through the rewrite of BackTrack, their previous information security testing Linux distribution based on Knoppix.
+Kali Linux is developed using a secure environment with only a small number of trusted people that are allowed to commit packages, with each package being digitally signed by the developer.</description>
+    </item>
+    
+    <item>
+      <title>Knoppix</title>
+      <link>/knoppix/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/knoppix/</guid>
+      <description>Knoppix KNOPPIX is an operating system based on Debian designed to be run directly from a CD / DVD (Live CD) or a USB flash drive (Live USB), one of the first of its kind for any operating system. Knoppix was developed by, and named after, Linux consultant Klaus Knopper. When starting a program, it is loaded from the removable medium and decompressed into a RAM drive. The decompression is transparent and on-the-fly.</description>
+    </item>
+    
+    <item>
+      <title>Kubuntu</title>
+      <link>/kubuntu/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/kubuntu/</guid>
+      <description>Kubuntu Kubuntu is an official flavour of the Ubuntu operating system which uses the KDE Plasma Desktop instead of the GNOME desktop environment. As part of the Ubuntu project, Kubuntu uses the same underlying systems. Every package in Kubuntu shares the same repositories as Ubuntu, and it is released regularly on the same schedule as Ubuntu.
+&amp;ldquo;Kubuntu&amp;rdquo; is derived from the name Ubuntu, prefixing a K to represent the KDE platform Kubuntu is built upon (following a widespread naming convention of prefixing K to the name of any software released for use on KDE platforms), as well as the KDE community.</description>
+    </item>
+    
+    <item>
+      <title>Linux Mint</title>
+      <link>/linuxmint/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/linuxmint/</guid>
+      <description>Linux Mint Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a &amp;ldquo;modern, elegant and comfortable operating system which is both powerful and easy to use.&amp;rdquo;
+Linux Mint provides full out-of-the-box multimedia support by including some proprietary software and comes bundled with a variety of free and open-source applications.
+Linux Mint is a stable, robust, and elegant Ubuntu-based distribution.
+Linux Mint is a great ‘default’ distro for new Linux users, as it comes with a lot of the software you’ll need when switching from Mac or Windows, such as LibreOffice, the favoured productivity suite of Linux users.</description>
+    </item>
+    
+    <item>
+      <title>Mageia</title>
+      <link>/mageia/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mageia/</guid>
+      <description>Mageia Mageia is a Linux-based operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution.Mageia can use all major desktop environments. KDE is the main and the most used environment.Mageia offers a very large repository of software, such as productivity applications and a large variety of games.
+Basic Info  Based on : Linux Package Manager : urpmi Founded : 2011 Website : https://www.</description>
+    </item>
+    
+    <item>
+      <title>Manjaro Linux</title>
+      <link>/manjarolinux/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/manjarolinux/</guid>
+      <description>MANJARO LINUX Manjaro Linux, is an open source operating system for computers. It is a distribution of Linux based on the Arch Linux distribution. Manjaro Linux has a focus on user friendliness and accessibility and the system itself is designed to work fully &amp;ldquo;straight out of the box&amp;rdquo; with its variety of pre-installed software. It features a rolling release update model and uses pacman as its package manager.
+Basic Info  Based on : Arch Linux Package Manager : pacman Founded : 2011 Website : https://manjaro.</description>
+    </item>
+    
+    <item>
+      <title>Nixos-Linux</title>
+      <link>/nixoslinux/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/nixoslinux/</guid>
+      <description>NixOS NixOS is a Linux distribution built on top of the Nix package manager. It uses declarative configuration and allows reliable system upgrades. Two main branches are offered: current Stable release and Unstable following latest development.Although NixOS started as a research project, it is a fully functional and usable operating system.NixOS has tools dedicated to DevOps and deployment tasks.
+Basic Info  Based on : Nix Package Manager : Nix Founded : 2003 Website : nixos.</description>
+    </item>
+    
+    <item>
+      <title>Oracle Linux</title>
+      <link>/oraclelinux/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/oraclelinux/</guid>
+      <description>Oracle Linux Oracle Linux (OL, formerly known as Oracle Enterprise Linux) is a Linux distribution packaged and freely distributed by Oracle, available partially under the GNU General Public License since late 2006. It is compiled from Red Hat Enterprise Linux (RHEL) source code, replacing Red Hat branding with Oracle&amp;rsquo;s. It is also used by Oracle Cloud and Oracle Engineered Systems such as Oracle Exadata and others.
+Basic Info  Based on : Linux Package Manager : RPM Package Manager Founded : 2006 Website : https://www.</description>
+    </item>
+    
+    <item>
+      <title>Phoenix</title>
+      <link>/pheonix/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/pheonix/</guid>
+      <description>Phoenix OS [NEW FREEWARE] Phoenix OS is one alternative Android OS for your PC. And like your Android based mobile devices, you can customize this OS to perfectly fit your needs in your computer.
+It supports both 32 bit and 64 bit architecture, can install the entire OS using an USB drive or in your hard drive. And since it is Android based, it can support millions of mainstream Android apps.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>/ubuntu/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ubuntu/</guid>
+      <description>Ubuntu Ubuntu is the most popular Linux operating system in the world. Ubuntu is produced by Canonical and the community.
+Ubuntu is named after the Southern African philosophy of ubuntu, which can be loosely translated as
+ &amp;ldquo;humanity to others&amp;rdquo;
+ or
+ &amp;ldquo;I am what I am because of who we all are&amp;rdquo;.
+ Ubuntu is also the most popular operating system in the cloud.
+Basic Info  Based on : debian Package Manager : apt Founded : 2004 Website : https://ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Kylin</title>
+      <link>/ubuntukylin/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ubuntukylin/</guid>
+      <description>Ubuntu Kylin Ubuntu Kylin is the official Chinese version of the Ubuntu computer operating system. Ubuntu Kylin is intended for desktop and laptop computers.Ubuntu Kylin is an open source operating system dominated by CCN open source joint laboratory and Tianjin Kylin Ltd. CCN were created by CSIP, Canonical and NUDT in 2013 who is aimed to promote open source development, innovation and popularization.
+Basic Info  Based on : debian Package Manager : dpkg Founded : 2002 Website : www.</description>
+    </item>
+    
+  </channel>
+</rss>

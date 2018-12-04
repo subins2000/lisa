@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/tags/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apt</title>
+      <link>/tags/apt/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/apt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arch</title>
+      <link>/tags/arch/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>/tags/debian/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepin</title>
+      <link>/tags/deepin/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deepin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dnf</title>
+      <link>/tags/dnf/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dnf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dpkg</title>
+      <link>/tags/dpkg/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dpkg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elementary</title>
+      <link>/tags/elementary/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/elementary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>/tags/fedora/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacking</title>
+      <link>/tags/hacking/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kali</title>
+      <link>/tags/kali/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kde</title>
+      <link>/tags/kde/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knoppix</title>
+      <link>/tags/knoppix/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/knoppix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubuntu</title>
+      <link>/tags/kubuntu/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magneia</title>
+      <link>/tags/magneia/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/magneia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manjaro</title>
+      <link>/tags/manjaro/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/manjaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mint</title>
+      <link>/tags/mint/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packman</title>
+      <link>/tags/packman/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/packman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redhat</title>
+      <link>/tags/redhat/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/redhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>/tags/ubuntu/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urpmi</title>
+      <link>/tags/urpmi/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/urpmi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

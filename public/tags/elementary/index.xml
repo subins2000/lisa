@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementary on </title>
+    <link>/tags/elementary/</link>
+    <description>Recent content in Elementary on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/elementary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elementary Os</title>
+      <link>/elementaryos/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/elementaryos/</guid>
+      <description>Elementary OS Elementary OS Is a fast, open, and privacy-respecting replacement for Windows and macOS. They focus primarily on non-technical users, and has pay-what-you-want model. The OS is developed by elementary LLC.
+Basic Info  Based on : ubuntu Package Manager : dpkg Founded : 2009 Website : https://elementary.io/  Download Elementary OS does not have a strict release cadence, instead following a &amp;ldquo;release when ready&amp;rdquo; model. However, releases generally occur about a year after the release of the Ubuntu LTS release.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Packman on </title>
+    <link>/tags/packman/</link>
+    <description>Recent content in Packman on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/packman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manjaro Linux</title>
+      <link>/manjarolinux/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/manjarolinux/</guid>
+      <description>MANJARO LINUX Manjaro Linux, is an open source operating system for computers. It is a distribution of Linux based on the Arch Linux distribution. Manjaro Linux has a focus on user friendliness and accessibility and the system itself is designed to work fully &amp;ldquo;straight out of the box&amp;rdquo; with its variety of pre-installed software. It features a rolling release update model and uses pacman as its package manager.
+Basic Info  Based on : Arch Linux Package Manager : pacman Founded : 2011 Website : https://manjaro.</description>
+    </item>
+    
+  </channel>
+</rss>

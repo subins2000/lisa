@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on </title>
+    <link>/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elementary Os</title>
+      <link>/elementaryos/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/elementaryos/</guid>
+      <description>Elementary OS Elementary OS Is a fast, open, and privacy-respecting replacement for Windows and macOS. They focus primarily on non-technical users, and has pay-what-you-want model. The OS is developed by elementary LLC.
+Basic Info  Based on : ubuntu Package Manager : dpkg Founded : 2009 Website : https://elementary.io/  Download Elementary OS does not have a strict release cadence, instead following a &amp;ldquo;release when ready&amp;rdquo; model. However, releases generally occur about a year after the release of the Ubuntu LTS release.</description>
+    </item>
+    
+    <item>
+      <title>KDE Neon</title>
+      <link>/kdeneon/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/kdeneon/</guid>
+      <description>KDE Neon KDE neon is a set of software repositories for Ubuntu long-term support (LTS) releases with latest 64-bit version of KDE desktop and applications.It is also the name given to a Ubuntu LTS-based Linux distribution that utilizes said repositories.It aims to provide the users with rapidly updated Qt and KDE software, while updating the rest of the OS components from the Ubuntu repositories at the normal pace. It comes in user and developer editions.</description>
+    </item>
+    
+    <item>
+      <title>Kubuntu</title>
+      <link>/kubuntu/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/kubuntu/</guid>
+      <description>Kubuntu Kubuntu is an official flavour of the Ubuntu operating system which uses the KDE Plasma Desktop instead of the GNOME desktop environment. As part of the Ubuntu project, Kubuntu uses the same underlying systems. Every package in Kubuntu shares the same repositories as Ubuntu, and it is released regularly on the same schedule as Ubuntu.
+&amp;ldquo;Kubuntu&amp;rdquo; is derived from the name Ubuntu, prefixing a K to represent the KDE platform Kubuntu is built upon (following a widespread naming convention of prefixing K to the name of any software released for use on KDE platforms), as well as the KDE community.</description>
+    </item>
+    
+    <item>
+      <title>Mageia</title>
+      <link>/mageia/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mageia/</guid>
+      <description>Mageia Mageia is a Linux-based operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution.Mageia can use all major desktop environments. KDE is the main and the most used environment.Mageia offers a very large repository of software, such as productivity applications and a large variety of games.
+Basic Info  Based on : Linux Package Manager : urpmi Founded : 2011 Website : https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

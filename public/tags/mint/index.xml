@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mint on </title>
+    <link>/tags/mint/</link>
+    <description>Recent content in Mint on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux Mint</title>
+      <link>/linuxmint/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/linuxmint/</guid>
+      <description>Linux Mint Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a &amp;ldquo;modern, elegant and comfortable operating system which is both powerful and easy to use.&amp;rdquo;
+Linux Mint provides full out-of-the-box multimedia support by including some proprietary software and comes bundled with a variety of free and open-source applications.
+Linux Mint is a stable, robust, and elegant Ubuntu-based distribution.
+Linux Mint is a great ‘default’ distro for new Linux users, as it comes with a lot of the software you’ll need when switching from Mac or Windows, such as LibreOffice, the favoured productivity suite of Linux users.</description>
+    </item>
+    
+  </channel>
+</rss>
