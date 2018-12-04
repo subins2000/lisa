@@ -1,7 +1,7 @@
 ---
 title: "KDE Neon"
 type: post
-date: 2018-12-05
+date: 2018-12-06
 url: /kdeneon
 categories:
   - ubuntu
