@@ -5,7 +5,7 @@ date: 2018-12-04
 url: /ubuntukylin
 categories:
   -
-image: https://pbs.twimg.com/profile_images/501736839212855297/lauFzkA0_400x400.png 
+image: https://upload.wikimedia.org/wikipedia/commons/4/4b/Ubuntu_Kylin_logo.png 
 tags:
   - 
   - 
