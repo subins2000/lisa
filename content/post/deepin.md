@@ -5,6 +5,8 @@ date: 2018-12-04
 url: /deepinos
 categories:
   - debian
+
+image: 
 tags:
   - apt
   - debian
