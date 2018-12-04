@@ -5,7 +5,7 @@ date: 2018-12-04
 url: /manjarolinux
 categories:
   - arch
-image: 
+image: https://wiki.manjaro.org/images/8/81/Skin2.png
 tags:
   - packman
   - arch

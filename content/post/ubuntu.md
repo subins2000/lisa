@@ -5,6 +5,7 @@ date: 2018-12-04
 url: /ubuntu
 categories:
   - 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZsshiju0A69mQ50Mxc6cWEQZO0VkRF4aRKwUcA6MIrs0RVNB
 tags:
   - 
   - 

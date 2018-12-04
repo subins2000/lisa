@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Linux Distros"
+  title       = "Linux Distro Picker"
   subtitle    = "reviews"
 
   cover       = ""

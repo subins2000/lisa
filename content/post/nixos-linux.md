@@ -5,6 +5,8 @@ date: 2018-12-04
 url: /nixoslinux
 categories:
   - 
+
+image: http://lac.linuxaudio.org/2015/download/nixos-for-musicians/images/nixos-hires.png
 tags:
   - 
   - 
