@@ -1,0 +1,50 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Linux Distros"
+  subtitle    = "reviews"
+
+  cover       = ""
+  description = "Review of Linux distros"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+
+  logo = ""
+  orgName = ""
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = ""
+  authorAvatar = ""
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
