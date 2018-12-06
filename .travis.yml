@@ -38,8 +38,9 @@ install:
 # Build the website
 script:
   - mkdir themes
-  - git clone https://github.com/digitalcraftsman/hugo-icarus-theme.git themes/hugo-icarus-theme
-#  - hugo
+  - git submodule init
+  - git submodule update
+  - hugo
   - azcopy --source $SOURCE_DIR --destination $DESTINATION_PATH --dest-key $AZURE_STORAGE_ACCESS_KEY --recursive --quiet --set-content-type
   - az login --service-principal -u $AZURE_SERVICE_PRINCIPAL_APP_ID --password $AZURE_SERVICE_PRINCIPAL_APP_PASSWORD --tenant $AZURE_SERVICE_PRINCIPAL_TENANT
   - az cdn endpoint purge -g $CDN_RESOURCE_GROUP -n $CDN_ENDPOINT_NAME --profile-name $CDN_PROFILE --content-paths "/*"
