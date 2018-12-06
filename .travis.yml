@@ -17,10 +17,10 @@ branches:
 env:
   global:
     - SOURCE_DIR="public"
-    - DESTINATION_PATH="https://haosblob.blob.core.windows.net/public/"
-    - CDN_RESOURCE_GROUP="haosblog-rg"
-    - CDN_ENDPOINT_NAME="haosblog"
-    - CDN_PROFILE="haos-premium-cdn"
+    - DESTINATION_PATH="https://lisadiag351.blob.core.windows.net/public/"
+    - CDN_RESOURCE_GROUP="lisa"
+    - CDN_ENDPOINT_NAME="lisalinux"
+    - CDN_PROFILE="lisa"
 
 install: 
   - git clone https://github.com/subins2000/lisa
