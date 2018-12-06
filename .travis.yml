@@ -8,7 +8,7 @@ addons:
 language: go
 
 git:
-  depth: 10
+  depth: 1
 
 branches:
   only:
